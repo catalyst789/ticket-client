@@ -1,0 +1,7 @@
+.ticketsList{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
